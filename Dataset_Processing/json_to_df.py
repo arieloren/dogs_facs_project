@@ -25,5 +25,5 @@ def create_annot_df(json_path):
 if __name__ == '__main__':
     json_path = 'D:\\Amir\\Machine_Learning_Course_Primrose\\Final_Project\\Dataset_Processing\\our_images.json'
     bounding_boxes_df = create_annot_df(json_path)
-#    bounding_boxes_df.to_csv("D:\\Amir\\Machine_Learning_Course_Primrose\\Final_Project\\Dataset_Processing\\bounding_boxes.csv")
+    #bounding_boxes_df.to_csv("D:\\Amir\\Machine_Learning_Course_Primrose\\Final_Project\\Dataset_Processing\\bounding_boxes.csv")
     z = 0
